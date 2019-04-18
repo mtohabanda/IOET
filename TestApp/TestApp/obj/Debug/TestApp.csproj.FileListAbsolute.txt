@@ -1,0 +1,18 @@
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\bin\Debug\BusinessLogic.dll
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\bin\Debug\Entity.dll
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\bin\Debug\Entity.pdb
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\bin\Debug\BusinessLogic.pdb
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\SONY\Desktop\Test IOET\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\obj\Debug\TestApp.pdb
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\bin\Debug\BusinessLogic.dll
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\bin\Debug\Entity.dll
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\bin\Debug\Entity.pdb
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\bin\Debug\BusinessLogic.pdb
+C:\Users\SONY\Desktop\TestIOET\TestApp\TestApp\obj\Debug\ResolveAssemblyReference.cache
